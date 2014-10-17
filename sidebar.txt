@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[hug:home|Door43 (hug)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-hug|d43-hug repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-hug/archive/master.zip|d43-hug.zip]]
+
+**Recent Changes**
+{{changes>ns = hug}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/hug|Ethnologue data]]
+
